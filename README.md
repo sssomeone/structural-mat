@@ -61,7 +61,7 @@ For questions or discussions, feel free to reach out:
 
 - **Pengfei Wang** — pengfei1998@foxmail.com
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 This work is supported by the National Key R&D Program of China (2022YFB3303200), the National Natural Science Foundation of China (62272277, U23A20312, 62072284, 62172415), the Natural Science Foundation of Shandong Province (ZR2020MF036), the Strategic Priority Research Program of the Chinese Academy of Sciences (XDB0640000 and XDB0640200), and the Beijing Natural Science Foundation (Z240002).
 
